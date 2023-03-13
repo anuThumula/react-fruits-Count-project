@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 9px;
+  margin: 15px;
+  margin-top: 50px;
+  height: 65vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #000000;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: roboto;
+}
+.count-ate {
+  color: #ffd569;
+}
+
+.imgs-cont {
+  text-align: center;
+}
+
+.img {
+  height: 25vh;
+  width: 20vw;
+}
+.ban-man-cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.button {
+  background-color: #007bff;
+
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  margin-top: 12px;
+}
